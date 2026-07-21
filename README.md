@@ -4,7 +4,9 @@ Haii, this is all about me including my portfolio :3
 To start my name is Luna, I was born in 2007/04/14.
 
 ## My career
-I do [Luau](https://en.wikipedia.org/wiki/Luau_(programming_language)) scripting
+I mainly do [Luau](https://en.wikipedia.org/wiki/Luau_(programming_language)) scripting
+BUT I am learning multiple new languages which are and not limited to:
+[C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language)), [Java](https://en.wikipedia.org/wiki/Java_(programming_language)), [JavaScript](https://en.wikipedia.org/wiki/JavaScript), [Python](https://en.wikipedia.org/wiki/Python_(programming_language)), [Rust](https://en.wikipedia.org/wiki/Rust_(programming_language)) and [GDScript](https://en.wikipedia.org/wiki/Godot_(game_engine)#GDScript)
 
 I am studying 3D Animation! :3
 
