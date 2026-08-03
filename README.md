@@ -9,6 +9,8 @@ BUT I am learning multiple new languages such as but not limited to:
 
 [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language)), [Java](https://en.wikipedia.org/wiki/Java_(programming_language)), [JavaScript](https://en.wikipedia.org/wiki/JavaScript), [Python](https://en.wikipedia.org/wiki/Python_(programming_language)), [Rust](https://en.wikipedia.org/wiki/Rust_(programming_language)) and [GDScript](https://en.wikipedia.org/wiki/Godot_(game_engine)#GDScript)
 
+Currently focused on learning: C#
+
 I am studying 3D Animation! :3
 
 I go into more detail on [my portfolio](https://llluna.carrd.co/)
