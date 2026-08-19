@@ -13,7 +13,7 @@ Currently focused on learning: C#
 
 I am studying 3D Animation! :3
 
-I go into more detail on [my portfolio](https://llluna.carrd.co/)
+I go into more detail with Luau/Modeling on [my portfolio](https://llluna.carrd.co/)
 
 ## What to expect here???
 I mainly wanna use my GitHub account to post my code for easy access.
