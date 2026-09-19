@@ -1,7 +1,7 @@
 # About-Me
 Haii, this is all about me including my portfolio :3
 
-To start my name is Luna, I was born in 2007/04/14.
+To start my name is Luna, I am 19 years old and a university student.
 
 ## My career
 I mainly do [Luau](https://en.wikipedia.org/wiki/Luau_(programming_language)) scripting
