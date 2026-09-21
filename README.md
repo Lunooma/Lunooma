@@ -4,12 +4,12 @@ Haii, this is all about me including my portfolio :3
 To start my name is Luna, I am 19 years old and a university student.
 
 ## My career
-I mainly do [Luau](https://en.wikipedia.org/wiki/Luau_(programming_language)) scripting
+I mainly do [Luau](https://en.wikipedia.org/wiki/Luau_(programming_language)) Scripting & [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
 BUT I am learning multiple new languages such as but not limited to:
 
-[C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language)), [Java](https://en.wikipedia.org/wiki/Java_(programming_language)), [JavaScript](https://en.wikipedia.org/wiki/JavaScript), [Python](https://en.wikipedia.org/wiki/Python_(programming_language)), [Rust](https://en.wikipedia.org/wiki/Rust_(programming_language)) and [GDScript](https://en.wikipedia.org/wiki/Godot_(game_engine)#GDScript)
+[Java](https://en.wikipedia.org/wiki/Java_(programming_language)), [JavaScript](https://en.wikipedia.org/wiki/JavaScript), [Python](https://en.wikipedia.org/wiki/Python_(programming_language)), [Rust](https://en.wikipedia.org/wiki/Rust_(programming_language)) and [GDScript](https://en.wikipedia.org/wiki/Godot_(game_engine)#GDScript)
 
-Currently focused on learning: C#
+Currently focused on learning: C# & Python
 
 I am studying 3D Animation! :3
 
